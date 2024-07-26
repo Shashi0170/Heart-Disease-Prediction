@@ -1,1 +1,3 @@
 # Heart-Disease-Prediction
+Our project aimed to analyze the risk factors associated with heart attacks using the "Indicators of Heart Disease (2022 UPDATE)" dataset. We sought to build a classification model for predicting heart attack and identify key indicators of heart attack risk. 
+The dataset provided valuable information on various health, lifestyle, and demographic factors collected through a general health survey system. Through thorough analysis and modelling, we aimed to contribute to the understanding the risk of heart attack and potential risk factors for general population and also support informed decision-making in healthcare. Findings included the likelihood of heart attack – Yes or No, as well as insights into the important risk factors
